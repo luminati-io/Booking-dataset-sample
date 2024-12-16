@@ -2,7 +2,7 @@
 
 <h2>A sample dataset of 1001 Booking listings</h2>
 
-![Booking dataset header](https://github.com/luminati-io/Booking-dataset-samples/blob/main/Booking-datasets.png)
+![Booking dataset header](https://github.com/luminati-io/Booking-dataset-sample/blob/main/Booking-datasets.png)
 
 A Booking dataset sample of over 1000 records. Dataset was extracted using the <b>Bright Data API</b>.
 
